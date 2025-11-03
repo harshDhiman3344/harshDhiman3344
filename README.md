@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, Welcome to my Github Profile!✨</h1>
+<h1 align="center">Hello! Welcome to my Github Profile!✨</h1>
 <p align="left">Heyy, I’m Harsh Dhiman, currently a third year student at IP University, Delhi.</p>
 
 <img align="right" height="300" src="https://i.pinimg.com/originals/3c/2d/cb/3c2dcb17e709ec1ef613c139544be1fb.gif"  />
