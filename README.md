@@ -13,6 +13,7 @@
   • 🌱 Learning and working with AI/ML, MERN Stack, Python, Blender, and Unity<br>
   • 💡 Always eager to learn and explore new technologies<br>
   • 😄 Pronouns: He/Him
+  • I LOVE ASTRONOMY
 </div>
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
@@ -32,9 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshDhiman3344&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
-
 <h2 align="left">⚡ Coding Activity</h2>
-
 <div align="center">
   <a href="https://hackatime.hackclub.com/">
     <img alt="Hackatime Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9034&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight&hide_border=true" />
