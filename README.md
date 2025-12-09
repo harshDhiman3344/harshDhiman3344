@@ -7,9 +7,9 @@
 <h2 align="left">🚀 About Me</h2>
 
 <div align="left">
-  <p>Hey there! I'm <strong>Harsh Dhiman</strong>, a passionate developer and tech enthusiast.</p>
+  <p>Hey there! I'm <strong>Harsh</strong>, a passionate developer and tech enthusiast.</p>
   
-  • 📚 Currently pursuing Bachelors in CS with Data Science at IP University, Delhi (3rd Year)<br>
+  <!--• 📚 Currently pursuing Bachelors in CS with Data Science at IP University, Delhi (3rd Year)<br> -->
   • 🌱 Learning and working with AI/ML, MERN Stack, Python, Blender, and Unity<br>
   • 💡 Always eager to learn and explore new technologies<br>
   • 😄 Pronouns: He/Him
