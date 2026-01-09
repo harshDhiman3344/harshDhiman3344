@@ -31,7 +31,7 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshDhiman3344&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=omni&fontFamily=&preferLogin=false">    <img  alt="harshDhiman3344's GitHub Stats"     src="https://awesome-github-stats.azurewebsites.net/user-stats/harshDhiman3344?cardType=github&theme=omni&fontFamily=&preferLogin=false" />  </a>
 </div>
 <h2 align="left">⚡ Coding Activity</h2>
 <div align="center">
