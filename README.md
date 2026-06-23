@@ -7,7 +7,7 @@
 <h2 align="left">🚀 About Me</h2>
 
 <div align="left">
-  <p>Hey there! I'm <strong>Harsh</strong>, a passionate developer and tech enthusiast.</p>
+  <p>Hey there! I'm a passionate developer and tech enthusiast.</p>
   
   <!--• 📚 Currently pursuing Bachelors in CS with Data Science at IP University, Delhi (3rd Year)<br> -->
   • 🌱 Learning and working with AI/ML, MERN Stack, Python, Blender, and Unity<br>
